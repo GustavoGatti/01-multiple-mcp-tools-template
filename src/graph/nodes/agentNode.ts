@@ -20,6 +20,7 @@ export function agentNode(openRouterService: OpenRouterService) {
             );
 
             return {
+                error: undefined,
                 messages: [new AIMessage(result.data as string)],
             };
 

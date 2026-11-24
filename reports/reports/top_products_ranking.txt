@@ -1,0 +1,18 @@
+Top 5 Most Sold Products Report
+================================
+
+Based on the products.csv data analysis:
+
+Rank | Product   | Total Sold | Price
+-----|-----------|------------|-------
+1    | beans     | 4          | $6.99
+2    | shampoo   | 1          | $10.99
+3    | soap      | 1          | $5.49
+4    | toothpaste| 1          | $3.99
+5    | rice      | 1          | $22.90
+
+Summary:
+- Total unique products: 5
+- Total transactions: 8
+- Best selling product: beans (4 units sold)
+- All other products sold exactly 1 unit each
